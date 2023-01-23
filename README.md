@@ -8,7 +8,9 @@
 	<img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
+
 ***
+
 ### Projects
 - [Анализ пользователей интернет-магазина, Когортный и RFM анализ](https://github.com/eugeneeight/eugeneeight/blob/23f4018a01a25de4396c777800b80e9e6ee3c931/e-com%20work.ipynb)
 
